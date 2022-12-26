@@ -17,6 +17,11 @@ Feel free to chat with me on [**LinkedIn**](www.linkedin.com/andrés-godoy-araya
 |---|---|---
 |Pizza Restaurant Project - Ongoing| Let´s design the backend of a management system for a pizza restaurant, here the owner can track information of the performance of the business like orders, staff, menu, etc.| Intermediate|
 ---
+# Machine Learning
+
+| Project Name | Description | Libraries |
+|---|---|---|
+| House Price Prediction | Predict the selling price of the houses in Boston| Pandas, Numpy, Matplotlib, sklearn|
 
 
 
