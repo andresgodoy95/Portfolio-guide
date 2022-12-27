@@ -17,7 +17,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 |Project name | Description | SQL Level|
 |---|---|---
-|Pizza Restaurant Project - Ongoing| Let´s design the backend of a management system for a pizza restaurant, here the owner can track information of the performance of the business like orders, staff, menu, etc.| Intermediate |
+|[Pizza Restaurant Project - Ongoing](https://github.com/andresgodoy95/Pizza-Restaurant)| Let´s design the backend of a management system for a pizza restaurant, here the owner can track information of the performance of the business like orders, staff, menu, etc.| Intermediate |
 ---
 # Machine Learning
 
