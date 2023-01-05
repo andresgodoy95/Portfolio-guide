@@ -3,7 +3,7 @@ Hi there! 🙋🏻‍
 
 Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
 
-Feel free to chat with me on [**LinkedIn**](www.linkedin.com/andrés-godoy-araya) about my projects!
+Feel free to chat with me on [**LinkedIn**](https://www.linkedin.com/in/andr%C3%A9s-godoy-araya/) about my projects!
 
 # Table of Contents
 * SQL
