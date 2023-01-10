@@ -24,7 +24,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | Libraries |
 |---|---|---|
-| House Price Prediction | Predict the selling price of the houses in Boston| Pandas, Numpy, Matplotlib, sklearn|
+| [House Price Prediction](https://github.com/andresgodoy95/HousePricePrediction) | Predict the selling price of the houses in Boston| Pandas, Numpy, Matplotlib, sklearn|
 | Credit Card Fraud | Train a ML algorithm to identify weather a transaction it´s fraudulent or not | Pandas, Numpy, sklearn
 ---
 
