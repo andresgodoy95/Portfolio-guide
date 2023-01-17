@@ -31,7 +31,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 # Data Visualization
 | Project Name | Description | Platform Used|
 |---|---|---|
-|Atliqo Case Study| The cellphone provider Atliqo wants to analyze the performance of their newest addition, the 5G plan | Power BI |
+|[Atliqo Case Study](https://github.com/andresgodoy95/Atliqo)| The cellphone provider Atliqo wants to analyze the performance of their newest addition, the 5G plan | Power BI |
 | Appol | The cellphone and computer company Appol, wants to analyze their sales over the world, and asks for a simple minimalistic dashboard that show the data over the most important regions. | Power BI|
 
 
