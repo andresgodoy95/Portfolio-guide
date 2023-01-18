@@ -8,7 +8,7 @@ Feel free to chat with me on [**LinkedIn**](https://www.linkedin.com/in/andr%C3%
 # Table of Contents
 * SQL
 * Machine Learning
-* Data Manipulation with Python
+* Data Manipulation with Python (Data Quality)
 * Data Visualization
 
 # SQL 
